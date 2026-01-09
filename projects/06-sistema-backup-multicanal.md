@@ -31,7 +31,7 @@ graph TD
         GithubFlow["Git: Commit & Push<br/>(Branch Main)"]:::db
     end
 
-    subgraph "Canal 2: Drive e Alert"
+    subgraph "Canal 2: Drive e Alerta"
         DriveFlow["Drive: Atualizar 'Latest'<br/>+ Criar Pasta do Dia"]:::db
         DriveFlow --> Notify["Telegram: Enviar<br/>Arquivo .JSON"]:::whatsapp
     end
