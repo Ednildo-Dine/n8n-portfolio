@@ -24,12 +24,12 @@
 - Facebook Webhook → Postgres
 - Message Cleanup Queue
 
-## 📊 MONITORAMENTO & METRICS
+## MONITORAMENTO & METRICS
 - Facebook Ads Daily Metrics
 - Google Sheets Multi-Alert
 - Error Reporting (Gmail/WhatsApp/Telegram)
 - NoCodeBackend Uptime
 
-## 🤖 SOCIAL MEDIA
+## SOCIAL MEDIA
 - PostGram (Telegram→Instagram)
 - Cloudflare Dynamic URLs
