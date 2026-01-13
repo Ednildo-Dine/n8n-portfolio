@@ -1,5 +1,5 @@
-# N8N SENIOR DEVELOPER - Ednildo Ferreira
-## 50+ Projetos Reais | Agentes IA Escaláveis
+# N8N DEVELOPER - Ednildo Ferreira
+##  Projetos Reais | Agentes IA Escaláveis
 
 ### PROJETOS EM DESTAQUE (Produção)
 
@@ -19,7 +19,7 @@
 
 ---
 
-### DOMÍNIO TÉCNICO (50+ Workflows)
+### DOMÍNIO TÉCNICO
 
 **ORQUESTRAÇÃO n8n**
 - Sub-workflows + Error Triggers + Merge Nodes
@@ -45,7 +45,7 @@
 - Self-Healing (container prune/restart)
 - Proxy rotation (HTTP/SOCKS5)
 
-**APIs & Integrações (30+)**
+**APIs & Integrações**
 - WhatsApp Cloud API + Evolution API
 - Chatwoot (conversations/labels)
 - Kiwify Webhooks (PIX/order approved)
