@@ -1,4 +1,4 @@
-## ⚡ Ferramenta de Geração de Cobrança InfinitePay (v2)
+## ⚡ Ferramenta de Geração de Cobrança InfinitePay
 
 #### 🧠 Lógica do Processo
 Este fluxo atua como um submódulo interno (tool) responsável por orquestrar a etapa de checkout na venda de vales-presente. Ao ser acionado pelo sistema principal com os dados do serviço escolhido, ele primeiramente registra uma intenção de compra ("rascunho") no banco de dados para garantir o rastreio da negociação. Em seguida, realiza a formatação e conversão monetária dos valores para o padrão do gateway financeiro. Por fim, o sistema consome a API da InfinitePay para criar uma cobrança oficial, valida a resposta e devolve o link de pagamento seguro para que o fluxo de origem o entregue ao comprador.
