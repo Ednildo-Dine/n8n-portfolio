@@ -1,4 +1,4 @@
-## ⚡ Assistente Virtual Premium com IA e Roteamento de Vendas (Lia)
+## ⚡ Assistente Virtual Premium com IA e Roteamento de Vendas
 
 #### 🧠 Lógica do Processo
 Este sistema atua como o motor inteligente de atendimento via WhatsApp para um Spa Premium. Ao receber mensagens de texto, áudios ou imagens, o fluxo processa a mídia e consulta o CRM para obter o histórico do cliente e sua etapa no funil de vendas (Kanban). Após validação por uma camada de segurança (Guardrails), a interação é assumida por um Agente de IA  capaz de compreender a intenção do cliente. Com base no contexto, a IA aciona subfluxos especializados para tirar dúvidas (FAQ), realizar reservas ou vender vales-presente gerando links de pagamento integrados. Finalizada a resposta, o sistema atualiza automaticamente a etapa do cliente no CRM e formata a mensagem para envio fluido via WhatsApp.
